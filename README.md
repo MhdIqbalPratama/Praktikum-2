@@ -2,4 +2,4 @@
 Pembuatan Repository
 
 Mhd Iqbal Pratama - 105220042
-CS 5
+Computer Science - Pertamina University
